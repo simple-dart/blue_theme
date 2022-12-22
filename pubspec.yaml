@@ -1,0 +1,9 @@
+name: simple_dart_blue_theme
+description: Blue Theme for Simple Dart UI framework
+version: 0.0.1
+repository: https://github.com/simple-dart/blue_theme
+platforms:
+  web:
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
