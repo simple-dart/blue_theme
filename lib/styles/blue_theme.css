@@ -12,6 +12,8 @@ body {
 select {
     border-radius: 3px;
     border: 1px solid transparent;
+    background: rgba(255, 255, 255, 0.2);
+    color: #f8eef9;
 }
 
 select:focus {
@@ -127,16 +129,6 @@ input[type="file"] {
   color: #f8eef9;
 }
 
-.SelectField > select {
-
-  background: rgba(255, 255, 255, 0.2);
-  color: #f8eef9;
-}
-
-.NumField > input {
-  background: rgba(255, 255, 255, 0.2);
-  color: #f8eef9;
-}
 
 .DateField {
   background: rgba(255, 255, 255, 0.2);
